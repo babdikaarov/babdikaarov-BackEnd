@@ -1,0 +1,15 @@
+{
+  "name": "1_startingserver",
+  "version": "1.0.0",
+  "description": "Express is a Node module, so in order to use it, we will need to import it into our program file. To create a server, the imported express function must be invoked.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}

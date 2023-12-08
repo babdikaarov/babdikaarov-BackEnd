@@ -16,3 +16,9 @@ function generateRandomMessage() {
 
 const randomMessage = generateRandomMessage();
 console.log(randomMessage);
+
+let arr = [1, 2];
+let arr2 = arr;
+arr2[1] = 5;
+console.log(arr2);
+console.log(arr);
